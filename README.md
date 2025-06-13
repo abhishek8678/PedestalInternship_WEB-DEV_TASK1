@@ -109,7 +109,3 @@ Custom logo for Drift Services.
 
 
 Additional interactive animations.
-
-Author
-
-[Your Name] - Internship Candidate
